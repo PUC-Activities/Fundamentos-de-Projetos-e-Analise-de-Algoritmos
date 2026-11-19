@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\fundamentos-de-projetos-e-analise-de-algoritmos\\problemadamochilafracionaria\\resultadomochila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|solutionrelative:resultadomochila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\fundamentos-de-projetos-e-analise-de-algoritmos\\problemadamochilafracionaria\\resultadocarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|solutionrelative:resultadocarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\fundamentos-de-projetos-e-analise-de-algoritmos\\problemadamochilafracionaria\\mercadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|solutionrelative:mercadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\fundamentos-de-projetos-e-analise-de-algoritmos\\problemadamochilafracionaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52758FDB-23AF-473E-B87E-BBDC7EBAED4B}|ProblemaDaMochilaFracionaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultadoMochila.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\ResultadoMochila.cs",
+              "RelativeDocumentMoniker": "ResultadoMochila.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\ResultadoMochila.cs",
+              "RelativeToolTip": "ResultadoMochila.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:29:58.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultadoCarga.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\ResultadoCarga.cs",
+              "RelativeDocumentMoniker": "ResultadoCarga.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\ResultadoCarga.cs",
+              "RelativeToolTip": "ResultadoCarga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:29:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercadoria.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\Mercadoria.cs",
+              "RelativeDocumentMoniker": "Mercadoria.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\Mercadoria.cs",
+              "RelativeToolTip": "Mercadoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:28:32.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Fundamentos-de-Projetos-e-Analise-de-Algoritmos\\ProblemaDaMochilaFracionaria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:27:51.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
